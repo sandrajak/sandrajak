@@ -21,4 +21,4 @@ Trabalhei com análise de dados relacionados à comercialização de peças de r
 ##
 ### Você também me encontra em:
 
-<a href="https://br.linkedin.com/in/sandra-jakoby"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=white"></a>
+<a href="https://br.linkedin.com/in/sandra-jakoby"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
