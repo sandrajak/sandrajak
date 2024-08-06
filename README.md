@@ -1,4 +1,4 @@
-## Olá! Sandra Jakoby aqui! 👋
+## Olá! Sou a Sandra! 👋 :)
 
 Estou estudando **Ciência de Dados** na [*Hashtag Treinamentos*](https://hashtagtreinamentos.com/).<br>
 Trabalhei com análise de dados relacionados à comercialização de peças de reposição, já fui programadora de compra de materiais, entre outros.
